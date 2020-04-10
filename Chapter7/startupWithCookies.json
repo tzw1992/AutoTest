@@ -1,5 +1,21 @@
 [
   {
+    "description": "这是一个会返回cookies信息的get请求",
+    "request": {
+      "uri": "/getcookies",
+      "method": "get"
+    },
+    "response": {
+      "cookies": {
+        "login": "true"
+      },
+      "text": "恭喜你获得cookies信息成功",
+      "headers": {
+        "Content-Type": "text/html;charset=gbk"
+      }
+    }
+  },
+  {
     "description": "这是一个带cookies信息的get请求",
     "request": {
       "uri": "/get/with/cookies",
@@ -29,7 +45,7 @@
       }
     },
     "response": {
-      "status": 202,
+      "status": 200,
       "json": {
         "zhangsan": "success",
         "status": "1"
