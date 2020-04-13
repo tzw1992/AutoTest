@@ -26,4 +26,58 @@
         select * from updateUserInfoCase where id=#{id}
     </select>
 
+
+
+
+    <!--获取用户信息-->
+    <select id="getUserInfo" parameterType="com.course.model.GetUserInfoCase" resultType="com.course.model.User">
+        select * from user where id=#{userId}
+    </select>
+    <!--添加用户-->
+    <select id="addUser" parameterType="com.course.model.AddUserCase" resultType="com.course.model.User">
+        select * from user WHERE userName=#{userName} and password=#{password}
+        and sex=#{sex}
+        and age=#{age}
+        and permission=#{permission}
+        and isDelete=#{isDelete}
+    </select>
+    <!--获取用户列表-->
+    <select id="getUserList" parameterType="com.course.model.GetUserListCase" resultType="com.course.model.User">
+        select * from user
+        <trim prefix="WHERE" prefixOverrides="AND">
+            <if test="null !=userName and ''!=userName" >
+                AND userName=#{userName}
+            </if>
+            <if test="null !=sex" >
+                AND sex=#{sex}
+            </if>
+            <if test="null !=age and ''!=age" >
+                AND age=#{age}
+            </if>
+        </trim>
+        ;
+    </select>
+
+    <!--获取更新之后的数据-->
+    <select id="getUpdateUserInfo" parameterType="com.course.model.UpdateUserInfoCase" resultType="com.course.model.User">
+        select * from user
+        <trim prefix="WHERE" prefixOverrides="and">
+            <if test="null !=userName and ''!=userName" >
+                AND userName=#{userName}
+            </if>
+            <if test="null !=sex" >
+                AND sex=#{sex}
+            </if>
+            <if test="null !=age and ''!=age" >
+                AND age=#{age}
+            </if>
+            <if test="null !=permission and ''!=permission" >
+                AND permission=#{permission}
+            </if>
+            <if test="null !=isDelete and ''!=isDelete" >
+                AND isDelete=#{isDelete}
+            </if>
+        </trim>
+        AND id=#{userId};
+    </select>
 </mapper>
