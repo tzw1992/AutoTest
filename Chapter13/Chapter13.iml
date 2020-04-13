@@ -14,7 +14,7 @@
       <configuration />
     </facet>
   </component>
-  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_5">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
     <output url="file://D:/git/Git/workspace/Chapter13/target/classes" />
     <output-test url="file://D:/git/Git/workspace/Chapter13/target/test-classes" />
     <content url="file://D:/git/Git/workspace/Chapter13">
