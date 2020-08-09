@@ -52,7 +52,6 @@ public class UserManger {
         }
         if(result>0){
             log.info("添加用户数量是"+result);
-            log.info("添加用户数量是"+result);
             return true;
         }
         return false;
@@ -69,6 +68,11 @@ public class UserManger {
         if(x){
             List<User> users=template.selectList("getUserInfo",user);
             log.info("getUserInfo获取到的用户数量是"+users.size());
+            for (User user1: users
+                 ) {
+                System.out.println(user1.getUserName());
+
+            }
             return users;
         }else {
             return null;

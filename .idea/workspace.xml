@@ -2,95 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59a12236-f43a-44fc-bda6-71144b40465c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/spring_mvc_study_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/fileInfolog2020-08-08.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/fileInfolog2020-08-09.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_6_0_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter11/target/classes/META-INF/Chapter11.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/classes/com/course/cases/AddUserTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/classes/com/course/cases/GetUserInfoListTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/classes/com/course/cases/GetUserInfoTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/classes/com/course/cases/LoginTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/classes/com/course/cases/Tzw_test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/classes/com/course/cases/UpdateUserInfoTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/classes/com/course/config/ExtendTestNGIReporterListener$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/classes/com/course/config/ExtendTestNGIReporterListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/classes/com/course/config/TestConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/classes/com/course/model/AddUserCase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/classes/com/course/model/GetUserInfoCase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/classes/com/course/model/GetUserListCase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/classes/com/course/model/InterfaceName.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/classes/com/course/model/LoginCase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/classes/com/course/model/UpdateUserInfoCase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/classes/com/course/model/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/classes/com/course/utils/ConfigFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/classes/com/course/utils/DatabaseUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/classes/databaseConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/classes/mapper/SQLMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/classes/testng.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/surefire-reports/TestSuite.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/surefire-reports/bullet_point.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/surefire-reports/collapseall.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/surefire-reports/emailable-report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/surefire-reports/failed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/surefire-reports/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/surefire-reports/jquery-3.4.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/surefire-reports/junitreports/TEST-com.course.cases.AddUserTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/surefire-reports/junitreports/TEST-com.course.cases.GetUserInfoListTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/surefire-reports/junitreports/TEST-com.course.cases.GetUserInfoTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/surefire-reports/junitreports/TEST-com.course.cases.LoginTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/surefire-reports/junitreports/TEST-com.course.cases.UpdateUserInfoTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/surefire-reports/navigator-bullet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/surefire-reports/old/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/surefire-reports/old/用户管理系统测试套件/classes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/surefire-reports/old/用户管理系统测试套件/groups.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/surefire-reports/old/用户管理系统测试套件/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/surefire-reports/old/用户管理系统测试套件/main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/surefire-reports/old/用户管理系统测试套件/methods-alphabetical.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/surefire-reports/old/用户管理系统测试套件/methods-not-run.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/surefire-reports/old/用户管理系统测试套件/methods.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/surefire-reports/old/用户管理系统测试套件/reporter-output.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/surefire-reports/old/用户管理系统测试套件/testng.xml.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/surefire-reports/old/用户管理系统测试套件/toc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/surefire-reports/old/用户管理系统测试套件/用户管理侧测试用例.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/surefire-reports/passed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/surefire-reports/skipped.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/surefire-reports/testng-failed.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/surefire-reports/testng-reports.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/surefire-reports/testng-reports.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/surefire-reports/testng-results.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/surefire-reports/testng.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/surefire-reports/用户管理系统测试套件/testng-failed.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/surefire-reports/用户管理系统测试套件/用户管理侧测试用例.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/surefire-reports/用户管理系统测试套件/用户管理侧测试用例.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter13/Chapter13.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter13/Chapter13.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter13/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter13/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chapter13/src/main/java/com/course/controller/UserManger.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter13/src/main/java/com/course/controller/UserManger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter13/target/Chapter13-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter13/target/Chapter13-1.0-SNAPSHOT.jar.original" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter13/target/classes/com/course/controller/UserManger.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter13/target/classes/com/course/controller/UserManger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter13/target/logs/fileInfolog2020-04-17.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter13/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter13/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter13/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter13/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter5/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/src/main/resources/multiThread.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter5/src/main/resources/multiThread.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/multiThread.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter5/target/classes/multiThread.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter6/target/classes/com/tester/extend/demo/ExtendTestNGIReporterListenerOld$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter6/target/classes/com/tester/extend/demo/ExtendTestNGIReporterListenerOld$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter6/target/classes/com/tester/extend/demo/ExtendTestNGIReporterListenerOld.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter6/target/classes/com/tester/extend/demo/ExtendTestNGIReporterListenerOld.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter9/target/classes/com/course/httpclient/cookies/MyCookiesForGet.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter9/target/classes/com/course/httpclient/cookies/MyCookiesForGet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter9/target/classes/com/course/httpclient/cookies/MyCookiesForPost.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter9/target/classes/com/course/httpclient/cookies/MyCookiesForPost.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter9/target/classes/com/course/httpclient/cookies/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter9/target/classes/com/course/httpclient/cookies/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter9/target/classes/com/course/httpclient/demo/MyHttpClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter9/target/classes/com/course/httpclient/demo/MyHttpClient.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -339,7 +252,7 @@
       <workItem from="1594565531695" duration="948000" />
       <workItem from="1595425643762" duration="5597000" />
       <workItem from="1596808186293" duration="1913000" />
-      <workItem from="1596881796392" duration="4577000" />
+      <workItem from="1596881796392" duration="6665000" />
     </task>
     <servers />
   </component>
@@ -367,6 +280,10 @@
       <screen x="0" y="0" width="1549" height="831" />
     </state>
     <state x="445" y="137" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1549.831@0.0.1549.831" timestamp="1592448378243" />
+    <state x="358" y="9" key="CommitChangelistDialog2" timestamp="1596963822503">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="358" y="9" key="CommitChangelistDialog2/0.0.1549.831@0.0.1549.831" timestamp="1596963822503" />
     <state x="557" y="175" key="FileChooserDialogImpl" timestamp="1594467123661">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
