@@ -52,6 +52,7 @@ public class UserManger {
         }
         if(result>0){
             log.info("添加用户数量是"+result);
+            log.info("添加用户数量是"+result);
             return true;
         }
         return false;
