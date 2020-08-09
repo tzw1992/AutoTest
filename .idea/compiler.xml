@@ -32,7 +32,7 @@
       <module name="Chapter10" options="-parameters" />
       <module name="Chapter11" options="-parameters" />
       <module name="Chapter12" options="-parameters" />
-      <module name="Chapter13" options="-extdirs D:\git\Git\workspace\Chapter13/lib" />
+      <module name="Chapter13" options="-extdirs D:\workspace\tzw_auto\AutoTest\Chapter13/lib" />
       <module name="Chapter6" options="-parameters" />
       <module name="Chapter9" options="-parameters" />
     </option>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<suite name="thread" parallel="classs" thread-count="2">
+<suite name="thread" parallel="tests" thread-count="2">
     <!--
     method级别：所有用例都可以在不同的线程下去执行
     tests级别：不同的test tag下的用例可以在不同的线程下执行

@@ -1,0 +1,16 @@
+com\course\testng\paramter\ParamterTest.class
+com\course\testng\ExpectedException.class
+com\course\testng\suite\LoginTest.class
+com\course\testng\suite\SuiteConfig.class
+com\course\testng\suite\PayTest.class
+com\course\testng\multiThread\MultiThreadXml.class
+com\course\testng\DependTest.class
+com\course\testng\paramter\DataProviderTest.class
+com\course\testng\IgnoreTest.class
+com\course\testng\BasicAnnotation.class
+com\course\testng\groups\GroupsOnMethod.class
+com\course\testng\groups\GroupsOnClass2.class
+com\course\testng\groups\GroupsOnClass1.class
+com\course\testng\groups\GroupsOnClass3.class
+com\course\testng\multiThread\MultiThreadOnAnnoation.class
+com\course\testng\TimeOutTest.class

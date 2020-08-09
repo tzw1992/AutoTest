@@ -8,5 +8,10 @@
         <option value="D:/intellij idea/Chapter13/pom.xml" />
       </list>
     </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/test/pom.xml" />
+      </set>
+    </option>
   </component>
 </project>
