@@ -90,6 +90,7 @@ public class UserManger {
             i=template.update("updateUserInfo",user);
         }
         log.info("更新数据的条目数是"+i);
+        log.info("更新数据的条目数是"+i);
         return i;
 
     }
